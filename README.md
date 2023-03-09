@@ -1,6 +1,6 @@
 # My_Dicee_Game
 <a href="https://manishgihub.github.io/My_Dicee_Game/">Click Here To Play Dicee Game</a><br><br>
-This is Dicee Game made with HTML,CSS and Javascript
+This is Dicee Game made with HTML,CSS and Javascript. You just have to refresh the page.
 
 
 ![b2](https://user-images.githubusercontent.com/102681545/224003666-e572c879-ae28-4e6c-a028-453c8c7861f2.JPG)
